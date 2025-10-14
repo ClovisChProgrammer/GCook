@@ -1,6 +1,6 @@
 -- Configuração Local do GIT
-git config --global user.name GalloJunior
-git config --global user.email gallojunior@gmail.com
+git config --global user.name ClovisChProgrammer
+git config --global user.email clovisch.programmer@gmail.com
 
 -- Criar o projeto
 dotnet new mvc -o GCook
